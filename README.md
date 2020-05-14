@@ -1,2 +1,3 @@
 ## Mengtao Wen's Homepage
-- Nankai University Ph.D student.
+- Ph.D student of Nankai University
+- Major in *Statistics*
