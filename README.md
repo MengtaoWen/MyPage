@@ -4,7 +4,7 @@
 
 
 ### Useful R Codes
-- Cross-validation (CV)
+- [Cross-validation (CV)](https://github.com/MengtaoWen/MyPage/blob/master/Rcode/cross-validation.md)
 
 
 ### Paper Writing with LaTeX
