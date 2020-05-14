@@ -8,7 +8,7 @@
 
 
 ### Paper Writing with LaTeX
-- Rules for capitalizing title
-- Biometrika style
-- Basic settings including spacing, indent, ...
-- Oversize table treatment 
+- [Rules for capitalizing title](https://github.com/MengtaoWen/MyPage/blob/master/PaperWriting/title.md)
+- [Biometrika style](https://github.com/MengtaoWen/MyPage/blob/master/PaperWriting/BIOMET%20(Oxford%20University%20Press).pdf)
+- [Basic settings including spacing, indent, ...](https://github.com/MengtaoWen/MyPage/blob/master/PaperWriting/basic-settings.md)
+- [Oversize table treatment](https://github.com/MengtaoWen/MyPage/blob/master/PaperWriting/size.md) 
