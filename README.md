@@ -7,9 +7,12 @@
 - Multiple testing and FDR control
 - Change-point detection and inference
 
+## Some Codes
+### R packages
+- [SLIP](https://github.com/MengtaoWen/SLIP): Activation discovery with FDR control.
+
 ### Useful R Codes
 - [Cross-validation (CV)](https://github.com/MengtaoWen/MyPage/blob/master/Rcode/cross-validation.md)
-
 
 ### Paper Writing with LaTeX
 - [Rules for capitalizing title](https://github.com/MengtaoWen/MyPage/blob/master/PaperWriting/title.md)
